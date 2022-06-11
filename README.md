@@ -9,7 +9,7 @@ C# Expression Parser Tests:
   - exprtk (C++/CLI)
 
 
-#Example results for expression "(x + y) * z":
+# Example results for expression "(x + y) * z":
 
 |       Method |         Mean |        Error |       StdDev |       Median |          Min |          Max |  Ratio | RatioSD | Rank |
 |------------- |-------------:|-------------:|-------------:|-------------:|-------------:|-------------:|-------:|--------:|-----:|
