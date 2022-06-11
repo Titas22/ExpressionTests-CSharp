@@ -10,6 +10,6 @@
 #define _USE_MATH_DEFINES
 #include <cmath>
 
-#include "exprtk.hpp"
+#include "./exprtk/exprtk.hpp"
 
 #define NaN std::numeric_limits<double>::quiet_NaN()

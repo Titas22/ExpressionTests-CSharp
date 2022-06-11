@@ -1,0 +1,4 @@
+[submodule "cppExpression/exprtk"]
+	path = cppExpression/exprtk
+	url = git@github.com:ArashPartow/exprtk.git
+	branch = master
